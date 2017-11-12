@@ -1,5 +1,8 @@
+This json_parser parses json and its nested json objects and saves them in seperated file.
+Requirement: It only works for JSON which has "id" columns in it
+
 Environment Python 2.7
-Packages used json, os, errno, os.path, shutil
+Dependecies: json, os, errno, os.path, shutil
 
 It is a console application. Please follow the steps to run the program.
 Steps
